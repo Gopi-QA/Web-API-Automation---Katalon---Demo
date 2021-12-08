@@ -1,1 +1,1 @@
-# Web-API-Automation---Katalon---Demo
+# Web-API-Automation-Katalon-Demo
